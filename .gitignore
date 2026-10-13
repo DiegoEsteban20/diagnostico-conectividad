@@ -1,0 +1,5 @@
+credenciales.xml
+*.log
+historial.csv
+estado_anterior.json
+ReportesRed/
